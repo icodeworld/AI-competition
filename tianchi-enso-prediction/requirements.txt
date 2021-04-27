@@ -1,0 +1,17 @@
+einops
+sklearn
+matplotlib==3.1.2
+netCDF4==1.5.3
+numpy==1.17.4
+nvidia-ml-py3==7.352.0
+openpyxl==3.0.3
+Pillow==7.0.0
+pytorch-lightning==0.9.0
+scipy==1.4.1
+toolz==0.9.0
+torch==1.6.0
+torchsummary==1.5.1
+torchvision==0.7.0
+urllib3==1.25.8
+zipp==1.0.0
+
